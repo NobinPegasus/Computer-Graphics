@@ -1,4 +1,4 @@
-# Setting up SDL in visual studio
+# Setting up SDL2 in visual studio
 1. Create or add existing the cpp file to the source file section
 2. Change the settings to x64
 3. Go to project->properties

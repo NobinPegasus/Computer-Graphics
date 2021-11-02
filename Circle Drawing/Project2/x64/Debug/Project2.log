@@ -1,0 +1,212 @@
+﻿  circle_drawing.cpp
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(45,21): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(46,21): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(55,25): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(56,26): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(58,25): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(59,25): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(61,26): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(62,25): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(100,25): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(101,25): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(103,26): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(104,25): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(106,25): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(107,26): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(109,26): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(110,26): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(115,29): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(116,29): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(118,30): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(119,29): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(121,29): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(122,30): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(124,30): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(125,30): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(141,21): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(142,21): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(144,22): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(145,21): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(147,21): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(148,22): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(150,22): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(151,22): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(153,21): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(154,21): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(156,21): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(157,22): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(159,22): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(160,21): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(162,22): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(163,22): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(250,89): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\source\repos\Circle Drawing\Project2\circle_drawing.cpp(250,71): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  Project2.vcxproj -> C:\Users\zesha\source\repos\Circle Drawing\x64\Debug\circle_drawing.exe

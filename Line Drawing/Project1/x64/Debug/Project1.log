@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  line_drawing.cpp
+C:\Users\zesha\Desktop\01_hello_SDL\line_drawing.cpp(41,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\zesha\Desktop\01_hello_SDL\line_drawing.cpp(42,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\zesha\Desktop\01_hello_SDL\line_drawing.cpp(112,35): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\Desktop\01_hello_SDL\line_drawing.cpp(113,35): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\Desktop\01_hello_SDL\line_drawing.cpp(164,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zesha\Desktop\01_hello_SDL\line_drawing.cpp(164,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zesha\Desktop\01_hello_SDL\line_drawing.cpp(175,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zesha\Desktop\01_hello_SDL\line_drawing.cpp(175,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zesha\Desktop\01_hello_SDL\line_drawing.cpp(203,110): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\zesha\Desktop\01_hello_SDL\line_drawing.cpp(203,71): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  Project1.vcxproj -> C:\Users\zesha\source\repos\Line Drawing\x64\Debug\Line Drawing.exe

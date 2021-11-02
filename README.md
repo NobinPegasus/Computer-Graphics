@@ -1,3 +1,6 @@
+# Downloading SDL2 for visual c++ in windows system
+1. Go to this website https://www.libsdl.org/download-2.0.php
+2. Development Libraries-> SDL2-devel-2.0.16-VC.zip (Visual C++ 32/64-bit)
 # Setting up SDL2 in visual studio
 1. Create or add existing the cpp file to the source file section
 2. Change the settings to x64

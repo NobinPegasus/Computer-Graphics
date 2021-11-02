@@ -3,7 +3,7 @@
 2. Change the settings to x64
 3. Go to project->properties
 4. Go to VC++ directories->Include Directories->Edit->Add SDL2 folder's include folder
-5. Linker->Input->Additional Dependencies-> Add two lines SDL2.lib;SDL2main.lib;
+5. Linker->Input->Additional Dependencies->Edit-> Add two lines SDL2.lib;SDL2main.lib;
 6. VC++ directories->Library Directories->Edit->Add SDL2 folder's lib folder
 
 # Computer-Graphics using SDL2 library
